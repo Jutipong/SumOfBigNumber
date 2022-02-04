@@ -58,5 +58,12 @@ namespace SumOfBigNumbers.Services
         {
             return inputA + inputB;
         }
+
+        public int SumX(int a, int b)
+        {
+            return a + b;
+        }
+
+        
     }
 }
